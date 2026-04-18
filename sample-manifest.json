@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3d3fa772-9751-461d-9de4-0f03d65ec610",
+  "export_job_id": "6c2d9bc2-1bd0-4526-9c4b-a720df78ef89",
   "id_short": 438418,
-  "published_at": "2026-04-12T19:08:31Z",
+  "published_at": "2026-04-18T19:07:46Z",
   "repo_name": "the-hhi-monopoly-index-for-alabama-us-sample-438418",
   "sample_asset_name": "beamstation_438418_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/438418/beamstation_438418_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 61,
-  "sample_sha256": "ba8a8a7177a29a1ad47310b3b3effc13bfc0e64f6748ddadc6a7dcc71ccc35b4",
-  "sample_size_bytes": 252737,
-  "total_records": 610
+  "sample_records": 57,
+  "sample_sha256": "8bbb78ffbb3aa3a0f3b0a68744ffeeb143f3b114091bd5b7349cd4ba960d4b68",
+  "sample_size_bytes": 236017,
+  "total_records": 573
 }
