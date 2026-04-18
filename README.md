@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Alabama, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 57 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `438418` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 610 records |
-| Free sample size | 61 records (10.0%) |
-| Last export | 2026-04-08T00:11:54.990108+00:00 |
+| Full dataset size | 573 records |
+| Free sample size | 57 records (9.95%) |
+| Last export | 2026-04-15T05:53:54.219476+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-alabama-us-sample-438418/releases/download/sample-latest/beamstation_438418_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
